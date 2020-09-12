@@ -2,5 +2,5 @@
 
 
 -  I’m a Fullstack Developer "Vue.js/Nuxt.js", "Node.js, mySql, PostgreSql and MongoDB"...
-- I'm currently learning "React.js
+
 
